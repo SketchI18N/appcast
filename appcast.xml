@@ -6,15 +6,15 @@
     <description>Sketch Internationalization Plugin</description>
     <language>en</language>
       <item>
-        <title>Version 1.1.5</title>
+        <title>Version 1.1.7</title>
         <description>
           <![CDATA[
             <ul>
-              <li>Minor update v1.1.5</li>
+              <li>Minor update v1.1.7</li>
             </ul>
           ]]>
         </description>
-        <enclosure url="https://github.com/cute/SketchI18N/releases/download/v1.1.5/SketchI18N.sketchplugin.zip" sparkle:version="1.1" />
+        <enclosure url="https://github.com/cute/SketchI18N/releases/download/v1.1.7/SketchI18N.sketchplugin.zip" sparkle:version="1.1" />
       </item>
   </channel>
 </rss>
